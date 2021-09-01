@@ -19,3 +19,13 @@
 #start, #status{
     font-size: 22px;
 }
+
+.footer{
+    color: black;
+    position: fixed;
+    bottom: 0;
+    background-color: tomato;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
